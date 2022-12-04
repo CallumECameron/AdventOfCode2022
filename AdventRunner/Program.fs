@@ -2,5 +2,5 @@
 open System
 
 "Day2Real.txt"
-|> Day2.strategyScore
+|> Day2.strategyScore2
 |> printfn "Result: %i"

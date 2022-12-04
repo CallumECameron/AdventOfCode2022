@@ -1,8 +1,6 @@
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
-/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.fsproj.AssemblyReference.cache
-/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.AssemblyInfoInputs.cache
-/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.AssemblyInfo.fs
-/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.fsproj.CoreCompileInputs.cache
+/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/Day1Example.txt
+/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/Day2Example.txt
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
@@ -107,6 +105,10 @@
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/AdventOfCode2022.dll
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/AdventOfCode2022.pdb
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/bin/Debug/net7.0/AdventOfCode2022.xml
+/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.fsproj.AssemblyReference.cache
+/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.AssemblyInfoInputs.cache
+/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.AssemblyInfo.fs
+/Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.fsproj.CoreCompileInputs.cache
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.fsproj.CopyComplete
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/AdventOfCode2022Tests.dll
 /Users/callumcameron/Repos/AdventOfCode2022/AdventOfCode2022Tests/obj/Debug/net7.0/refint/AdventOfCode2022Tests.dll

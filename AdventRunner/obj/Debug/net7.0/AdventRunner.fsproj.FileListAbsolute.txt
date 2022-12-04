@@ -1,7 +1,5 @@
-/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.fsproj.AssemblyReference.cache
-/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.AssemblyInfoInputs.cache
-/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.AssemblyInfo.fs
-/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.fsproj.CoreCompileInputs.cache
+/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/Day2Real.txt
+/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/Day1Real.txt
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/AdventRunner
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/AdventRunner.deps.json
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/AdventRunner.runtimeconfig.json
@@ -24,6 +22,10 @@
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/AdventOfCode2022.dll
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/AdventOfCode2022.pdb
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/bin/Debug/net7.0/AdventOfCode2022.xml
+/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.fsproj.AssemblyReference.cache
+/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.AssemblyInfoInputs.cache
+/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.AssemblyInfo.fs
+/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.fsproj.CoreCompileInputs.cache
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.fsproj.CopyComplete
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/AdventRunner.dll
 /Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/obj/Debug/net7.0/refint/AdventRunner.dll
