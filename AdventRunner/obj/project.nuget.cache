@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PTdDUgUWPlFCcIpLoVfa/89ZVWR/gUniWztrlyf7i5xb4vNrZfbmc3Z+iy4o4uyZVs1OpcL3Jj6hQpiE5Hrjxw==",
+  "success": true,
+  "projectFilePath": "/Users/callumcameron/Repos/AdventOfCode2022/AdventRunner/AdventRunner.fsproj",
+  "expectedPackageFiles": [
+    "/Users/callumcameron/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
