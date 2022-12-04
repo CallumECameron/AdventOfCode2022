@@ -23,14 +23,34 @@ module Day1 =
         |> filterEmpty
         |> Seq.map int
 
-    let mostCalories s =
+    let caloriesPerElf s =
         s
         |> Seq.map intSeq
         |> Seq.map Seq.sum
+
+    let mostCalories s =
+        s
+        |> caloriesPerElf
         |> Seq.max
 
-    let caloriesCariedByElfWithMostCalories fileName =
+    let sumCaloriesTop n s =
+        s
+        |> caloriesPerElf
+        |> Seq.sortDescending
+        |> Seq.take n
+        |> Seq.sum
+
+    let paragraphs fileName =
         fileName
         |> File.ReadLines
         |> splitBy empty
+
+    let caloriesCarriedByElfWithMostCalories fileName =
+        fileName
+        |> paragraphs
         |> mostCalories
+        
+    let caloriesCarriedByTopThreeElves fileName =
+        fileName
+        |> paragraphs
+        |> sumCaloriesTop 3

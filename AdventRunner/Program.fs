@@ -3,5 +3,5 @@ open System
 
 printfn "Path: "
 Console.ReadLine()
-|> Day1.caloriesCariedByElfWithMostCalories
+|> Day1.caloriesCarriedByTopThreeElves
 |> printfn "Most calories: %i"
