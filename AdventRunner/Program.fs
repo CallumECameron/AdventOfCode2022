@@ -1,7 +1,6 @@
 ﻿open AdventOfCode2022
 open System
 
-printfn "Path: "
-Console.ReadLine()
-|> Day1.caloriesCarriedByTopThreeElves
-|> printfn "Most calories: %i"
+"Day2Real.txt"
+|> Day2.strategyScore
+|> printfn "Result: %i"

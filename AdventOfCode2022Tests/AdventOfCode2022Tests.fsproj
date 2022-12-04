@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Include="Day1Tests.fs" />
+    <Compile Include="Day2Tests.fs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,5 +27,13 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AdventOfCode2022\AdventOfCode2022.fsproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Day1Example.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Day2Example.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 </Project>
